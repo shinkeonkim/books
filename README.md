@@ -1,2 +1,16 @@
-# books
-내가 읽었고, 읽고있고 읽고 싶은 책들 (ljlm0402님의 레포를 보고 만들게 된 books 레포)
+# books :books:
+
+## 목차 
+[1. 읽은 책 :closed_book:](##읽은-책-📕)
+
+[2. 읽고 있는 중인 책 :open_book:](##읽고-있는-중인-책-📖)
+
+[3. 읽고 싶은 책 :green_book:](##읽고-싶은-책-📗)
+
+## 읽은 책 :closed_book:
+
+
+## 읽고 있는 중인 책 :open_book:
+
+
+## 읽고 싶은 책 :green_book:
